@@ -20,6 +20,7 @@ This is why short-term forecasting is so important in the retail and consumer go
 
 Team Leader:
             Vikraman
+            
 Team Members:
             Vishva Jaiganesh
             Shyam Sundar
