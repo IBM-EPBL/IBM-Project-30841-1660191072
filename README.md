@@ -23,7 +23,5 @@ Team Leader:
             
 Team Members:
             Vishva Jaiganesh
-            
             Shyam Sundar
-            
             Vishwa
