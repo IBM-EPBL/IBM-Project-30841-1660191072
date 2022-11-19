@@ -19,9 +19,9 @@ Basic Questions of every retailer : How much inventory should I carry?  Too much
 This is why short-term forecasting is so important in the retail and consumer goods industry. 
 
 Team Leader:
-            Vikraman
+            Vikraman.
             
 Team Members:
-            Vishva Jaiganesh
-            Shyam Sundar
-            Vishwa
+            Vishva Jaiganesh,
+            Shyam Sundar,
+            Vishwa.
