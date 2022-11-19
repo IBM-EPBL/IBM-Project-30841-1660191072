@@ -1,3 +1,10 @@
+
+
+![190850103-f85c29b8-016f-45d6-bb5a-e7c8401cb762](https://user-images.githubusercontent.com/113294977/202851907-fed6697a-5b58-4b93-aff2-b80cf6b5717e.jpg)
+
+
+
+
 # IBM-Project-30841-1660191072
 Retail Store Stock Inventory Analytics
 Retail Store Stock Inventory Analytics
