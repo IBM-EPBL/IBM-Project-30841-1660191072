@@ -16,17 +16,7 @@ Basic Questions of every retailer : How much inventory should I carry?  Too much
 
  
 
-This is why short-term forecasting is so important in the retail and consumer goods industry.
-
-
-
-
-
-Technical Architecture:
-
-
-
-
+This is why short-term forecasting is so important in the retail and consumer goods industry. 
 
 Team Leader:
             Vikraman
