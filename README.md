@@ -1,9 +1,3 @@
-"C:\Users\Vikraman\Downloads\The-Power-of-Big-Data-in-Retail.jpg"
-
-
-
-
-
 
 # IBM-Project-30841-1660191072
 Retail Store Stock Inventory Analytics
