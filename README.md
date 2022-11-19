@@ -1,4 +1,4 @@
-![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f352f35312f49424d5f6c6f676f2e737667](https://user-images.githubusercontent.com/113294977/202851957-be3c2aa6-b1dc-40e9-9892-27cd5ccfd489.svg)
+"C:\Users\Vikraman\Downloads\The-Power-of-Big-Data-in-Retail.jpg"
 
 
 
